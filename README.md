@@ -1,5 +1,5 @@
 # Sobre mim:
-💻 Desenvolvo soluções robustas e escaláveis com Java e Spring Boot.<br>🔗 Experiência em integrações assíncronas utilizando RabbitMQ e Apache Kafka.<br>🗃️ Atuo na manutenção e otimização de bancos de dados relacionais, especialmente Oracle.<br>🌱 Iniciando no desenvolvimento frontend com Vue.js para criar interfaces modernas e responsivas.<br>📚 Sempre em busca de aprender e compartilhar conhecimento.
+💻 Desenvolvo soluções robustas e escaláveis com Java e Spring Boot.<br>🔗 Experiência em integrações assíncronas utilizando RabbitMQ e Apache Kafka.<br>🗃️ Atuo na manutenção e otimização de bancos de dados relacionais, especialmente Oracle.<br>🌱 Iniciando no desenvolvimento frontend com Vue.js para criar interfaces modernas e responsivas.<br>
 
 
 ## 🌐 Socials:
